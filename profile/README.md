@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- ===== LOGO ===== -->
+<div align="center">
 <img src="../logos/cirqai_logo_gif.gif" alt="CirqAi logo" width="180"/>
-
+</div>
 <!-- ===== WORDMARK ===== -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=46&pause=99999&color=8B5CF6&center=true&vCenter=true&width=420&height=70&lines=CirqAi" alt="CirqAi" />
 
